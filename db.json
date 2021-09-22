@@ -1,26 +1,18 @@
-
 {
-    "user" : [
+  "user": [
     {
-        "name": "Adam",
-        "address": "London",
-        "email": "adam@mail",
-        "contact": "112233",
-        "id": 1
+      "name": "Maloch",
+      "address": "Hell",
+      "email": "maloch@mail",
+      "contact": "191191",
+      "id": 2
     },
     {
-        "name": "Aoi",
-        "address": "Japan",
-        "email": "aoi@mail",
-        "contact": "567889",
-        "id":2
-    },
-    {
-        "name": "Jane",
-        "address": "Australia",
-        "email": "jane@mail",
-        "contact": "988765",
-        "id": 3
+      "name": "Liliana",
+      "email": "liliana@mail.com",
+      "contact": "1234567",
+      "address": "China jungle",
+      "id": 3
     }
-    ]   
+  ]
 }
