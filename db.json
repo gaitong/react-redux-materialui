@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Yorn",
+      "email": "yorn@mail.com",
+      "contact": "1111",
+      "address": "Asgard",
+      "id": 1
+    },
+    {
+      "name": "TelAnas",
+      "email": "telanas@mail.com",
+      "contact": "2222",
+      "address": "forest",
+      "id": 2
+    },
+    {
+      "name": "Malose",
+      "email": "malose@mail.com",
+      "contact": "3333",
+      "address": "Hell",
+      "id": 3
+    }
+  ]
+}
